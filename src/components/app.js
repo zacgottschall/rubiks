@@ -2,8 +2,7 @@ import React from 'react';
 import {
   BrowserRouter as Router, Route, NavLink, Switch,
 } from 'react-router-dom';
-import Counter from './counter';
-import Controls from './controls';
+import Cube from './cube';;
 import '../style.scss';
 
 
@@ -20,8 +19,7 @@ const Nav = (props) => {
 const Welcome = (props) => {
   return (
     <div>
-      <Controls />
-      <Counter />
+      <Cube/>
     </div>
   );
 };

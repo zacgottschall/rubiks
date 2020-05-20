@@ -6371,6 +6371,11 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^3.0.0"
     inherits "^2.0.1"
 
+rubiks-cube@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/rubiks-cube/-/rubiks-cube-3.0.0.tgz#8b5abc8de1288ef50955643de4ff89385542fc40"
+  integrity sha512-YC3P5hrbQ+K7Tq7X4D7C+VRStp2Irw+qzUn8Exe6B/JJCXeLHAoTSbDRMol/RqEY8mE1T2P0W3PAW5K5kyOI6Q==
+
 run-async@^2.2.0, run-async@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/run-async/-/run-async-2.4.0.tgz#e59054a5b86876cfae07f431d18cbaddc594f1e8"

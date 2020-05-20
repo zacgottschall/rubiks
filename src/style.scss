@@ -19,3 +19,17 @@ body, html {
 .active {
   color: pink;
 }
+
+.Cube {
+  display: flex;
+  flex-direction: column;
+
+  .TopAndSides {
+    display: flex;
+  }
+
+  .Side {
+    width: 100px;
+    height: 100px;
+  }
+}
